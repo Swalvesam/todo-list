@@ -67,6 +67,11 @@ function App() {
     id: 3,
     task: "mow grass",
     isCompleted: false
+    },
+    {
+    id: 4,
+    task: "dishes",
+    isCompleted: true
     }]);
 
   const addTask = text => {
